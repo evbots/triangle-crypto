@@ -2,26 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to the triangle crypto community. 
 
-[Link to another page](./another-page.html).
+# What's this all about?
 
-There should be whitespace between paragraphs.
+There's a lot of people interested in cryptocurrency, smart contracts, and applications of blockchain in the traingle area. This group serves to be a meeting space online and IRL for those people. We currently have a discord chat room set up, and will occasionally schedule meetups and social events for people to gather and talk about the latest trends. If you're just getting started and have questions, join! If you've been using crypto software for a while, join! All are welcome.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Who should join?
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Any human interested in crypto. Common topics include cryptocurrency, smart contracts, DeFi, NFTs, and DAOs.
 
 
-## Sign up for the Newsletter To Stay Updated
+## How do I get involved?
+
+Right now we have a discord chat room set up - you should join! We'll likely have other spaces set up in the future (forum, telegram). Feel free to suggest other ways to connect online.
+
+## Are you on Meetup.com?
+
+Not yet. We've found meetup to be pretty annoying for scheduling events, and there is no longer a free tier. We'll schedule events via chat groups and get out the word that way.
+
+## Sign up for the Newsletter!
+
+We promise this is not an annoying newsletter. The list is managed via MailChimp, which means each email comes with an unsubscribe link in the footer. We envision sending 2-3 emails a year, max.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -50,104 +52,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='FULLNAME';ftypes[5]='text';fnames[6]='CONAME';ftypes[6]='text';fnames[7]='OTHERDEETS';ftypes[7]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-### Header 3
+### Ground Rules / Code of Conduct
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+This community group, Triangle Crypto, is dedicated to providing a harassment-free zone for everyone, regardless of sex, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, nationality, or religious beliefs. We do not tolerate harassment of community members in any form. Participants violating these rules will be expelled from the community at the discretion of the moderators.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Harassment includes offensive verbal or written comments related to sex, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, nationality, or religious beliefs, deliberate intimidation, threats, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is not appropriate for any event or communication channel.
 
-#### Header 4
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the mods immediately, or as soon as you feel comfortable doing so.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
