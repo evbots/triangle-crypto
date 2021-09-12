@@ -6,7 +6,7 @@ Welcome to the triangle crypto community.
 
 # What's this all about?
 
-There's a lot of people interested in cryptocurrency, smart contracts, and applications of blockchain in the traingle area. This group serves to be a meeting space online and IRL for those people. We currently have a discord chat room set up, and will occasionally schedule meetups and social events for people to gather and talk about the latest trends. If you're just getting started and have questions, join! If you've been using crypto software for a while, join! All are welcome.
+There's a lot of people interested in cryptocurrency, smart contracts, and applications of blockchain in the triangle area. This group serves to be a meeting space online and IRL for those people. We currently have a discord chat room set up, and will occasionally schedule meetups and social events for people to gather and talk about the latest trends. If you're just getting started and have questions, join! If you've been using crypto software for a while, join! All are welcome.
 
 ## Who should join?
 
