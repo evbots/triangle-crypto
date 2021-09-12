@@ -19,7 +19,7 @@ Right now we have a discord chat room set up - you should join! [Here's the link
 
 ## Are you on Meetup.com?
 
-Not yet. We've found meetup to be pretty annoying for scheduling events, and there is no longer a free tier. We'll schedule events via chat groups and get out the word that way.
+Not yet. However, there are other local crypto groups on Meetup. Meetup has decided to remove the free tier. If we get a sponsor, maybe we'll pay for a meetup subscription for the group. For now, IRL events will be scheduled and promoted via the discord chat group.
 
 ## Sign up for the Newsletter!
 
