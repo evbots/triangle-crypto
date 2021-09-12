@@ -15,7 +15,7 @@ Any human interested in crypto. Common topics include cryptocurrency, smart cont
 
 ## How do I get involved?
 
-Right now we have a discord chat room set up - you should join! We'll likely have other spaces set up in the future (forum, telegram). Feel free to suggest other ways to connect online.
+Right now we have a discord chat room set up - you should join! [Here's the link]({{ site.header_links.discord }}). We'll likely have other spaces set up in the future (online forum, telegram). Feel free to suggest other ways to connect online.
 
 ## Are you on Meetup.com?
 
