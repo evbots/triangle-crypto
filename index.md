@@ -6,7 +6,9 @@ Welcome to the triangle crypto community.
 
 # What's this all about?
 
-There's a lot of people interested in cryptocurrency, smart contracts, and applications of blockchain in the triangle area. This group serves to be a meeting space online and IRL for those people. We currently have a discord chat room set up, and will occasionally schedule meetups and social events for people to gather and talk about the latest trends. If you're just getting started and have questions, join! If you've been using crypto software for a while, join! All are welcome.
+This website is intended to be a resource to discover IRL and online crypto communities for people local to the research triangle region.
+
+There's a lot of people interested in cryptocurrency, smart contracts, web3, and applications of blockchain in the triangle area. This resource exists to connect people. We currently have a discord chat room set up (link above), and will occasionally schedule meetups and social events for people to gather and talk about the latest trends. If you're just getting started and have questions, join! If you've been using crypto software for a while, join! All are welcome.
 
 ## Who should join?
 
@@ -17,9 +19,11 @@ Any human interested in crypto. Common topics include cryptocurrency, smart cont
 
 Right now we have a discord chat room set up - you should join! [Here's the link]({{ site.header_links.discord }}). We'll likely have other spaces set up in the future (online forum, telegram). Feel free to suggest other ways to connect online.
 
-## Are you on Meetup.com?
+## What about Meetup groups?
 
-Not yet. However, there are other local crypto groups on Meetup. Meetup has decided to remove the free tier. If we get a sponsor, maybe we'll pay for a meetup subscription for the group. For now, IRL events will be scheduled and promoted via the discord chat group.
+The [Web3 Triangle meetup](https://www.meetup.com/web3triangle) gets together regularly in the Durham area for workshops and social events.
+
+Make a pull request on this repo if you'd like to add another local meetup to this section (and share in the discord!).
 
 ## Sign up for the Newsletter!
 
